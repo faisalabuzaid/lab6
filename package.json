@@ -13,5 +13,13 @@
     "express": "^4.17.1"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "**Author**: Faisal Abuzaid **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalabuzaid/lab6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faisalabuzaid/lab6/issues"
+  },
+  "homepage": "https://github.com/faisalabuzaid/lab6#readme"
 }
