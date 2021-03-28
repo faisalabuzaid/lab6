@@ -20,4 +20,3 @@ City explorer was designed by HTM, CSS JavaScript and Node.js
 
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
